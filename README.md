@@ -13,7 +13,7 @@ This is a simple daily task planner. You can add events to your day.
 - User events are saved in localStorage against page reloads.
 ----------------------------------------------------------------------------------------------------
 ## Screen Shots
-![Screenshot](./assets/images/screenshot1.png)
+![Screenshot](./Assets/images/screenshot1.png)
 
 
 ----------------------------------------------------------------------------------------------------
