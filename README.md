@@ -1,5 +1,19 @@
 # Daily Planner
-
+This is a simple daily task planner. You can add events to your day.
+----------------------------------------------------------------------------------------------------
+## Features
+- See a set of blocks representing the regular work hours in a day.
+- Today's date and day of week are displayed prominently at the top.
+- Blocks are color-coded to show what hours are in the past, present, and future.
+- Refreshing the page will update the hour blocks.
+- User can click in a non-past block and add text to their schedule.
+- User can then save the event by clicking the button to the right of the event.
+- User can edit text in non-past blocks then save by clicking the button to the right.
+- User can select text, delete text, then save by clicking the button to the right.
+- User events are saved in localStorage against page reloads.
+----------------------------------------------------------------------------------------------------
+## Screen Shots
+![Screenshot](./assets/images/screenshot1.png)
 
 
 ----------------------------------------------------------------------------------------------------
