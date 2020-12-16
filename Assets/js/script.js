@@ -27,7 +27,7 @@ $(document).ready(function () {
         
         // sets past hours textareas to disabled
         if(i < currentHour){            
-            $("#text" + i).attr("disabled", "disabled")
+            // $("#text" + i).attr("disabled", "disabled")
         }
         // set current hour css class and remove past class
         else if(i === currentHour){            
